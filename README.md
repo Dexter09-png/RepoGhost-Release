@@ -119,9 +119,3 @@ Always ensure you have permission to scan the files you provide to the applicati
 ## License
 
 This project is distributed under the MIT License. See the [LICENSE](LICENSE) file for the full license text.
-
-## Repository
-
-- **GitHub:** [Dexter09-png/RepoGhost-Release](https://github.com/Dexter09-png/RepoGhost-Release)
-- **Releases:** [Download page](https://github.com/Dexter09-png/RepoGhost-Release/releases)
-
